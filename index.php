@@ -5,7 +5,7 @@
 
 <html>
     <body>
-        <iframe id="conteudo" name="conteudo"></iframe>
+        <iframe src="bem_vindo.php" id="conteudo" name="conteudo"></iframe>
     </body>
 </html>
 
